@@ -70,6 +70,7 @@ else:
 
 # Output : 
 
+![image](https://github.com/Mario-Viofer-J/Poisson_distribution/assets/144979232/2c898750-8695-40ae-becb-a04be66277cc)
 
 
 # Results
